@@ -43,17 +43,17 @@ Junior Web developer
 - Développement du moteur de recherche du site principal (Apache Solr, Bash script)
 
 ## Formations
-**CAS en investigation numérique** | HE-ARC, Neuchâtel | (mars 2019)
+**CAS en investigation numérique - HE-ARC, Neuchâtel** (mars 2019)
 
-**Ingénieur HES en informatique** | HE-ARC, St-Imier | (octobre 2002 - janvier 2006)
+**Ingénieur HES en informatique - HE-ARC, St-Imier** (octobre 2002 - janvier 2006)
 
-**Preliminary English Test** | HE-ARC, St-Imier | (juin 2004)
+**Preliminary English Test - HE-ARC, St-Imier** (juin 2004)
 
-**Maturité professionnelle technique** | CCP, Porrentruy | (août 1999 - juillet 2002)
+**Maturité professionnelle technique - CPP, Porrentruy** (août 1999 - juillet 2002)
 
-**CFC d'informaticien** | EHMP, Porrentruy | (août 1998 - juillet 2002)
+**CFC d'informaticien - EHMP, Porrentruy** (août 1998 - juillet 2002)
 
-**Scolarité obligatoire** | Bassecourt | (août 1989 - juin 1998)
+**Scolarité obligatoire - Bassecourt** (août 1989 - juin 1998)
 
 ## Langues
 - Français : langue maternelle
