@@ -1,8 +1,8 @@
-# Gauthier Montavon
+# Ingénieur HES en informatique
 Investigation numérique, développement web et ethical hacking
 
 ## Introduction
-Développeur durant les 10 premières années de ma carrière, l'investigation numérique m'a ensuite permis d'élargir mon panel de compétences informatiques, m'apportant une meilleure compréhension globale des fonctionnement des programmes informatiques. J'aime aussi m'essayer au "ethical hacking" sur des plateformes telles que "Hack the Box" ou "Try Hack Me". 
+Développeur durant les 10 premières années de ma carrière, l'investigation numérique m'a ensuite permis d'élargir mon panel de compétences informatiques, m'apportant une meilleure compréhension globale des fonctionnements des programmes informatiques. J'aime aussi m'essayer au "ethical hacking" sur des plateformes telles que "Hack the Box" ou "Try Hack Me". 
 Pour compenser toutes ces heures passées derrière un écran, j'essaie de passer un maximum de temps à l'extérieur, que ce soit lors de la pratique de mon sport favori, le cyclisme, ou lors de balades en famille.
 
 ## Compétences techniques
@@ -23,25 +23,25 @@ Inspecteur IT (investigation numérique)
 - Gestion du réseau informatique dédié à l'investigation numérique (Windows Server 2012, NAS Synology)
 - Développement d'applications web et mobiles (Visual Studio, Angular, XCode/Swift, MySQL)
 
-**Solution informatique, Porrentruy** (septembre 2014 - mai 2015) 
+**Solution informatique, Porrentruy** (septembre 2014 - mai 2015)   
 Analyste développeur
 - Développement de logiciels de gestion (Delphi, MySQL)
 - Développement de sites web (PHP, WordPress, MySQL)
 - Analyse métier
 
-**Globaz, Le Noirmont** (septembre 2008 - août 2014) 
+**Globaz, Le Noirmont** (septembre 2008 - août 2014)   
 Software engineer
 - Développement d'applications web (Java, Eclipse)
 - Déploiement/Versionning/Intégration continue (Apache Ant, Hudson/Jenkins, SVN, Bash script)
 - Analyse métier
 - Support utilisateur
- 
-**Radio Télévision Suisse Romande, Genève** (mars 2006 - août 2008) 
+
+**Radio Télévision Suisse Romande, Genève** (mars 2006 - août 2008)   
 Junior Web developer
 - Développement de sites web (HTML/CSS, JSTL, XSLT, Apache Cocoon)
 - Développement/maintenance de la plateforme VOD et différents players vidéo (Flash/ActionScript, Javascript)
 - Développement du moteur de recherche du site principal (Apache Solr, Bash script)
-- 
+
 ## Formations
 **CAS en investigation numérique** | HE-ARC, Neuchâtel | (mars 2019)
 
