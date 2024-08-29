@@ -46,7 +46,6 @@ Junior Web developer
 **CAS en investigation numérique** | HE-ARC, Neuchâtel | (mars 2019)
 
 **Ingénieur HES en informatique** | HE-ARC, St-Imier | (octobre 2002 - janvier 2006)
-Courses, activities, or other details
 
 **Preliminary English Test** | HE-ARC, St-Imier | (juin 2004)
 
