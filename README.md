@@ -1,7 +1,5 @@
 # Ingénieur HES en informatique
-Investigation numérique, développement web et ethical hacking
 
-## Introduction
 Développeur durant les 10 premières années de ma carrière, l'investigation numérique m'a ensuite permis d'élargir mon panel de compétences informatiques, m'apportant une meilleure compréhension globale des fonctionnements des programmes informatiques. J'aime aussi m'essayer au "ethical hacking" sur des plateformes telles que "Hack the Box" ou "Try Hack Me". 
 Pour compenser toutes ces heures passées derrière un écran, j'essaie de passer un maximum de temps à l'extérieur, que ce soit lors de la pratique de mon sport favori, le cyclisme, ou lors de balades en famille.
 
