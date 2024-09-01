@@ -16,10 +16,10 @@ Pour compenser toutes ces heures passées derrière un écran, j'essaie de passe
 Inspecteur IT (investigation numérique)
 - Acquisition de la mémoire de smartphones, disques dur et autres supports numériques
 - Analyse mémoire ROM/RAM, trafic réseau, malware (Cellebrite UFED, X-Ways, Volatility, Wireshark)
-- Développement d'outils OSINT / API 
+- Développement d'outils/scripts de collecte de données (Python, API Web)
+- Développement d'applications web et mobiles (Visual Studio, Angular, XCode/Swift, MySQL) 
 - Gestion des pièges numériques (caméras, balises GPS)
-- Gestion du réseau informatique dédié à l'investigation numérique (Windows Server 2012, NAS Synology)
-- Développement d'applications web et mobiles (Visual Studio, Angular, XCode/Swift, MySQL)
+- Gestion du réseau informatique dédié à l'investigation numérique
 
 **Solution informatique, Porrentruy** (septembre 2014 - mai 2015)   
 Analyste développeur
