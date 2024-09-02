@@ -4,7 +4,7 @@ Développeur durant les 10 premières années de ma carrière, l'investigation n
 Pour compenser toutes ces heures passées derrière un écran, j'essaie de passer un maximum de temps à l'extérieur, que ce soit lors de la pratique de mon sport favori, le cyclisme, ou lors de balades en famille.
 
 ## Compétences techniques
-- Programming Languages: C#, Java, Javacript, PHP, Python
+- Programming Languages: C#, Java, Javascript, PHP, Python
 - Scripting : Bash, PowerShell
 - JS Frameworks: Angular, NodeJS
 - Tools and Softwares: X-Ways Forensics, Android Studio, Git, Wireshark, BurpSuite, Metasploit
